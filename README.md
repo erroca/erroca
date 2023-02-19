@@ -1,7 +1,7 @@
 ![https://github.com/erroca](https://media.licdn.com/dms/image/C5616AQHAokocZ_BdGQ/profile-displaybackgroundimage-shrink_350_1400/0/1517469220243?e=1681948800&v=beta&t=BX_-5lxOCKJOzcvCuNg9B1BJb2hAqmZZCzSCK6VNB14
 )
 
-## Hola!👋 ¿Cómo estás? Mi nombre es Emilio
+## Hola!👋 ¿Cómo estás? Mi nombre es Ramón
 
 Soy Licenciado en Sociología 📚 y me desenvuelvo hace poco más de 6 años como data analyst 👨🏻‍💻 en una obra social, lo que me llevó a trabajar con varios análisis multivariables y tablas relacionales. Mi formación como sociólogo me aportó muchos conocimientos sobre estadística y sobre estructuras de investigación, por lo que siempre trato de buscar las preguntas que se desprenden de los objetivos, y a partir de ellas trazar un caminó a través del análisis datos que lleve a las conclusiones correctas.
 
